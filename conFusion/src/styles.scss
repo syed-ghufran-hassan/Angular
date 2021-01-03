@@ -1,6 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
+@import 'variables'; //to be added
+@import "../node_modules/font-awesome/css/font-awesome.min.css"; //to be added for font-awesome
+
 $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
